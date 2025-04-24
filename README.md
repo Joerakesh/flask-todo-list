@@ -42,30 +42,23 @@ flask-todo-list/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/flask-todo-list.git
+git clone https://github.com/Joerakesh/flask-todo-list.git
 cd flask-todo-list
 ```
 
-2. **Create a virtual environment (optional but recommended)**
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**
+2. **Install dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Run the app**
+3. **Run the app**
 
 ```bash
 python app.py
 ```
 
-5. **Open your browser**
+4. **Open your browser**
 
 Visit: [http://localhost:5000](http://localhost:5000)
 
